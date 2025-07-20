@@ -1,0 +1,91 @@
+game_id,id_play,drive_play_number,game_play_number,pos_team,pos_team_score,def_pos_team,def_pos_team_score,period,clock.minutes,clock.seconds,yards_to_goal,down,distance,yards_gained,scoring,play_type,play_text,ppa
+401678896,401678896104919501,31,4,Abilene Christian,25,Stephen F. Austin,32,4,8,4,68,4,8,0,FALSE,Punt,Grant Nickel punt for 42 yds,
+401678896,401678896104914704,31,3,Abilene Christian,25,Stephen F. Austin,32,4,8,52,68,3,8,0,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Blayne Taylor, broken up by Azariah Levells",-0.3045902576
+401678896,401678896104914703,31,2,Abilene Christian,25,Stephen F. Austin,32,4,8,52,68,2,8,0,FALSE,Pass Incompletion,pass incomplete to Javon Gipson,-0.6166151307
+401678896,401678896104914702,31,1,Abilene Christian,25,Stephen F. Austin,32,4,8,52,70,1,10,2,FALSE,Rush,Sam Hicks run for 2 yds to the ACU 32,-0.5478281133
+401678896,401678896104904603,30,1,Abilene Christian,25,Stephen F. Austin,32,4,9,53,65,1,10,0,FALSE,Kickoff,Kyler Meschi kickoff for 65 yds,
+401678896,401678896104904601,29,6,Abilene Christian,19,Stephen F. Austin,32,4,9,53,18,1,10,18,TRUE,Passing Touchdown,Blayne Taylor 18 Yd pass from Carson Haggard (Two-Point Pass Conversion Failed),2.591792709
+401678896,401678896104878506,29,5,Abilene Christian,13,Stephen F. Austin,32,4,12,14,30,1,10,12,FALSE,Pass Reception,Carson Haggard pass complete to J.J. Henry for 12 yds to the SFA 18 for a 1ST down,0.2224504239
+401678896,401678896104878505,29,4,Abilene Christian,13,Stephen F. Austin,32,4,12,14,44,3,5,14,FALSE,Pass Reception,Carson Haggard pass complete to Trey Cleveland for 14 yds to the SFA 30 for a 1ST down,1.969372802
+401678896,401678896104878504,29,3,Abilene Christian,13,Stephen F. Austin,32,4,12,14,44,2,5,0,FALSE,Pass Incompletion,pass incomplete to Blayne Taylor,-1.121656036
+401678896,401678896104878503,29,2,Abilene Christian,13,Stephen F. Austin,32,4,12,14,49,1,10,5,FALSE,Pass Reception,Carson Haggard pass complete to J.J. Henry for 5 yds to the SFA 44,0.1003706527
+401678896,401678896104878502,29,1,Abilene Christian,13,Stephen F. Austin,32,4,12,14,63,1,10,14,FALSE,Pass Reception,Carson Haggard pass complete to Nehemiah Martinez I for 14 yds to the SFA 49 for a 1ST down,1.288180242
+401678896,401678896104904602,29,7,Abilene Christian,25,Stephen F. Austin,32,4,9,53,3,1,10,-62,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Trey Cleveland, broken up by Kameron Reddic",
+401678896,401678896104855801,27,7,Abilene Christian,13,Stephen F. Austin,32,4,14,41,71,4,12,13,FALSE,Punt,"Grant Nickel punt for 45 yds , Kylon Harris returns for 13 yds to the SFA 39",
+401678896,401678896104849903,27,6,Abilene Christian,13,Stephen F. Austin,32,4,15,0,66,4,7,-5,FALSE,Penalty,"Abilene Christian Penalty, delay of game (Grant Nickel) to the ACU 29",
+401678896,401678896104849902,27,5,Abilene Christian,13,Stephen F. Austin,32,4,15,0,66,3,7,0,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Blayne Taylor, broken up by Azariah Levells",-0.3792727597
+401678896,401678896103989603,27,3,Abilene Christian,13,Stephen F. Austin,32,3,1,3,69,2,4,3,FALSE,Rush,Sam Hicks run for 3 yds to the ACU 34,-0.356408663
+401678896,401678896103989602,27,2,Abilene Christian,13,Stephen F. Austin,32,3,1,3,75,1,10,6,FALSE,Pass Reception,Carson Haggard pass complete to Nehemiah Martinez I for 6 yds to the ACU 31,0.3333748011
+401678896,401678896103849902,27,1,Abilene Christian,13,Stephen F. Austin,32,3,15,0,66,3,1,0,FALSE,Pass Incompletion,pass incomplete to Blayne Taylor,-0.7006464562
+401678896,401678896103989604,27,4,Abilene Christian,13,Stephen F. Austin,32,3,0,0,66,0,1,0,FALSE,End Period,End of 3rd Quarter,
+401678896,401678896103958204,26,1,Abilene Christian,13,Stephen F. Austin,32,3,4,17,65,1,10,0,FALSE,Kickoff,Kyler Meschi kickoff for 55 yds,
+401678896,401678896103958201,25,4,Abilene Christian,13,Stephen F. Austin,32,3,4,17,74,3,9,74,TRUE,Passing Touchdown,Nehemiah Martinez I 74 Yd pass from Carson Haggard (Ritse Vaes Kick),7.073548616
+401678896,401678896103949306,25,3,Abilene Christian,6,Stephen F. Austin,32,3,5,6,74,2,9,0,FALSE,Pass Incompletion,pass incomplete to Javon Gipson,-0.4083139532
+401678896,401678896103949305,25,2,Abilene Christian,6,Stephen F. Austin,32,3,5,6,75,1,10,1,FALSE,Rush,Sam Hicks run for 1 yd to the ACU 26,-0.5874795431
+401678896,401678896103909101,23,5,Abilene Christian,6,Stephen F. Austin,31,3,9,8,68,4,3,33,FALSE,Punt,"Grant Nickel punt for 38 yds Abilene Christian Penalty, illegal formation (Darius Moore) to the SFA 35",
+401678896,401678896103896806,23,4,Abilene Christian,6,Stephen F. Austin,31,3,10,31,68,3,3,0,FALSE,Rush,Sam Hicks run for no gain to the ACU 32,-0.5139435334
+401678896,401678896103896805,23,3,Abilene Christian,6,Stephen F. Austin,31,3,10,31,75,2,10,7,FALSE,Rush,Sam Hicks run for 7 yds to the ACU 32,0.3138158809
+401678896,401678896103896804,23,2,Abilene Christian,6,Stephen F. Austin,31,3,10,31,75,1,10,0,FALSE,Pass Incompletion,pass incomplete to Sam Hicks,-0.702970022
+401678896,401678896103888701,21,4,Abilene Christian,6,Stephen F. Austin,19,3,11,12,41,4,6,0,FALSE,Punt,Grant Nickel punt for 31 yds,
+401678896,401678896103875304,21,3,Abilene Christian,6,Stephen F. Austin,19,3,12,46,48,3,13,7,FALSE,Pass Reception,Carson Haggard pass complete to Blayne Taylor for 7 yds to the SFA 41,0.4240867292
+401678896,401678896103875303,21,2,Abilene Christian,6,Stephen F. Austin,19,3,12,46,48,2,13,0,FALSE,Pass Incompletion,pass incomplete to Nehemiah Martinez I,-0.9610792088
+401678896,401678896103875302,21,1,Abilene Christian,6,Stephen F. Austin,19,3,12,46,45,1,10,-3,FALSE,Rush,Sam Hicks run for a loss of 3 yards to the SFA 48,-1.683338445
+401678896,401678896103874201,20,4,Abilene Christian,6,Stephen F. Austin,19,3,12,57,55,1,10,0,FALSE,Interception,Carson Haggard pass intercepted,-2.723386763
+401678896,401678896103864704,20,3,Abilene Christian,6,Stephen F. Austin,19,3,13,52,65,1,10,10,FALSE,Rush,Isaiah Johnson run for 10 yds to the ACU 45 for a 1ST down,0.9661037734
+401678896,401678896103864703,20,2,Abilene Christian,6,Stephen F. Austin,19,3,13,52,75,1,10,10,FALSE,Pass Reception,Carson Haggard pass complete to Nehemiah Martinez I for 10 yds to the ACU 35 for a 1ST down,0.835038109
+401678896,401678896103854901,17,2,Abilene Christian,6,Stephen F. Austin,16,3,14,50,81,1,10,-5,FALSE,Fumble Recovery (Opponent),"Sam Hicks run for a loss of 5 yards to the ACU 14 Sam Hicks fumbled, recovered by SFA Aaron Austin",-0.561380479
+401678896,401678896102997602,16,1,Abilene Christian,6,Stephen F. Austin,16,2,0,23,88,1,10,-5,FALSE,Penalty,"Abilene Christian Penalty, false start (Alan Hatten) to the ACU 7",
+401678896,401678896102986101,14,5,Abilene Christian,6,Stephen F. Austin,16,2,1,38,77,4,16,2,FALSE,Punt,"Grant Nickel punt for 42 yds , Cannon Lemberg returns for 2 yds to the SFA 25 Stephen F. Austin Penalty, off-side (Azariah Levells) to the SFA 37",
+401678896,401678896102979902,14,4,Abilene Christian,6,Stephen F. Austin,16,2,2,0,65,3,4,-12,FALSE,Sack,Maverick McIvor sacked by Tony Anywanu for a loss of 12 yards to the ACU 23,-0.9467690521
+401678896,401678896102979901,14,3,Abilene Christian,6,Stephen F. Austin,16,2,2,0,65,2,4,0,FALSE,Pass Incompletion,pass incomplete to Sam Hicks,-0.9974449858
+401678896,401678896102975403,14,2,Abilene Christian,6,Stephen F. Austin,16,2,2,45,71,1,10,6,FALSE,Rush,Maverick McIvor run for 6 yds to the ACU 35,0.3660456814
+401678896,401678896102975402,14,1,Abilene Christian,6,Stephen F. Austin,16,2,2,45,91,1,10,20,FALSE,Pass Reception,Maverick McIvor pass complete to Nehemiah Martinez I for 20 yds to the ACU 29 for a 1ST down,1.046569083
+401678896,401678896102956801,13,1,Abilene Christian,6,Stephen F. Austin,16,2,4,31,65,1,10,63,FALSE,Kickoff,"Kyler Meschi kickoff for 63 yds , Jordan Nabors return for 13 yds to the SFA 47 , Jerrell Wimbley return for 32 yds to the SFA 47",
+401678896,401678896102955701,12,7,Abilene Christian,6,Stephen F. Austin,16,2,4,42,9,3,7,9,TRUE,Passing Touchdown,Jed Castles 9 Yd pass from Maverick McIvor (Two-Point Pass Conversion Failed),2.921952491
+401678896,401678896102919807,12,6,Abilene Christian,0,Stephen F. Austin,16,2,8,1,12,2,10,3,FALSE,Rush,Sam Hicks run for 3 yds to the SFA 9,-0.0940883137
+401678896,401678896102919806,12,5,Abilene Christian,0,Stephen F. Austin,16,2,8,1,12,1,10,0,FALSE,Pass Incompletion,pass incomplete to Blayne Taylor,-0.2977696357
+401678896,401678896102919805,12,4,Abilene Christian,0,Stephen F. Austin,16,2,8,1,22,1,10,10,FALSE,Rush,"Sam Hicks run for no gain to the SFA 22 for a 1ST down Stephen F. Austin Penalty, Defensive holding (Elijah Fields) to the SFA 12 for a 1ST down",0.1175282246
+401678896,401678896102919804,12,3,Abilene Christian,0,Stephen F. Austin,16,2,8,1,44,3,20,22,FALSE,Rush,Sam Hicks run for 22 yds to the SFA 22 for a 1ST down,3.783101997
+401678896,401678896102919803,12,2,Abilene Christian,0,Stephen F. Austin,16,2,8,1,33,2,9,-11,FALSE,Fumble Recovery (Own),"Maverick McIvor sacked by Ky Thomas for a loss of 11 yards to the SFA 44 Maverick McIvor fumbled, recovered by ACU Alan Hatten , return for 0 yards",-2.989904608
+401678896,401678896102955702,12,8,Abilene Christian,6,Stephen F. Austin,16,2,4,42,3,1,10,-62,FALSE,Pass Incompletion,Maverick McIvor pass incomplete to Blayne Taylor,
+401678896,401678896102919802,12,1,Abilene Christian,0,Stephen F. Austin,16,2,8,1,34,1,10,1,FALSE,Pass Reception,Maverick McIvor pass complete to J.J. Henry for 1 yd to the SFA 33,-0.5040939954
+401678896,401678896102905401,10,5,Abilene Christian,0,Stephen F. Austin,16,2,9,45,79,4,14,0,FALSE,Punt,"Grant Nickel punt for 45 yds , Kylon Harris returns for no gain to the SFA 21 Stephen F. Austin Penalty, Offensive holding (Ryan Williams) to the SFA 22",
+401678896,401678896102889506,10,4,Abilene Christian,0,Stephen F. Austin,16,2,11,4,77,3,12,-2,FALSE,Pass Reception,Maverick McIvor pass complete to Sam Hicks for a loss of 2 yards to the ACU 21,-0.1378495995
+401678896,401678896102889505,10,3,Abilene Christian,0,Stephen F. Austin,16,2,11,4,77,2,12,0,FALSE,Pass Incompletion,"Maverick McIvor pass incomplete to Trey Cleveland, broken up by Josiah Cotton",-0.2489092114
+401678896,401678896102889504,10,2,Abilene Christian,0,Stephen F. Austin,16,2,11,4,75,1,10,-2,FALSE,Rush,Isaiah Johnson run for a loss of 2 yards to the ACU 23,-0.8852575133
+401678896,401678896102884501,8,4,Abilene Christian,0,Stephen F. Austin,9,2,11,54,83,4,13,0,FALSE,Punt,"Grant Nickel punt for 43 yds , Cannon Lemberg returns for no gain to the SFA 37",
+401678896,401678896102858904,8,3,Abilene Christian,0,Stephen F. Austin,9,2,14,10,80,3,10,-3,FALSE,Sack,Maverick McIvor sacked by Xavier Potts for a loss of 3 yards to the ACU 17,-0.153252297
+401678896,401678896102858903,8,2,Abilene Christian,0,Stephen F. Austin,9,2,14,10,80,2,10,0,FALSE,Rush,Sam Hicks run for no gain to the ACU 20,-0.2608138521
+401678896,401678896102858902,8,1,Abilene Christian,0,Stephen F. Austin,9,2,14,10,80,1,10,0,FALSE,Pass Reception,Maverick McIvor pass complete to Sam Hicks for no gain to the ACU 20,-0.5586693797
+401678896,401678896101998701,7,2,Abilene Christian,0,Stephen F. Austin,9,1,0,12,80,1,10,12,FALSE,Kickoff,"Kyler Meschi kickoff for 41 yds , Chris Martinez return for 12 yds to the ACU 49 Chris Martinez fumbled, recovered by SFA Cole Lemons  , return for no gain to the ACU 49",
+401678896,401678896101998301,6,2,Abilene Christian,0,Stephen F. Austin,9,1,0,16,98,1,12,-2,TRUE,Safety,Sam Hicks run for a loss of 2 yards for a SAFETY,-1.909781594
+401678896,401678896101997602,6,1,Abilene Christian,0,Stephen F. Austin,7,1,0,23,96,1,10,-2,FALSE,Penalty,"Abilene Christian Penalty, false start (Alan Hatten) to the ACU 2",
+401678896,401678896101947301,4,12,Abilene Christian,0,Stephen F. Austin,7,1,5,26,20,4,4,37,FALSE,Field Goal Missed,Kyler Meschi 37 yd FG MISSED,
+401678896,401678896101899811,4,11,Abilene Christian,0,Stephen F. Austin,7,1,10,1,20,3,4,0,FALSE,Pass Incompletion,"Maverick McIvor pass incomplete to J.J. Henry, broken up by Bruce Harmon",-0.5987268094
+401678896,401678896101899810,4,10,Abilene Christian,0,Stephen F. Austin,7,1,10,1,26,2,10,6,FALSE,Rush,Isaiah Johnson run for 6 yds to the SFA 20,0.1630255509
+401678896,401678896101899809,4,9,Abilene Christian,0,Stephen F. Austin,7,1,10,1,26,1,10,0,FALSE,Pass Incompletion,pass incomplete to Sam Hicks,-0.4710467975
+401678896,401678896101899808,4,8,Abilene Christian,0,Stephen F. Austin,7,1,10,1,39,3,2,13,FALSE,Pass Reception,Maverick McIvor pass complete to Javon Gipson for 13 yds to the SFA 26 for a 1ST down,1.15542134
+401678896,401678896101899807,4,7,Abilene Christian,0,Stephen F. Austin,7,1,10,1,42,2,5,3,FALSE,Pass Reception,Maverick McIvor pass complete to Nehemiah Martinez I for 3 yds to the SFA 39,-0.3595950998
+401678896,401678896101899806,4,6,Abilene Christian,0,Stephen F. Austin,7,1,10,1,47,1,10,5,FALSE,Pass Reception,Maverick McIvor pass complete to Isaiah Johnson for 5 yds to the SFA 42,0.09737387866
+401678896,401678896101899805,4,5,Abilene Christian,0,Stephen F. Austin,7,1,10,1,55,2,2,8,FALSE,Rush,Isaiah Johnson run for 8 yds to the SFA 47 for a 1ST down,0.4013208305
+401678896,401678896101899804,4,4,Abilene Christian,0,Stephen F. Austin,7,1,10,1,63,1,10,8,FALSE,Rush,Isaiah Johnson run for 8 yds to the ACU 45,1.035987722
+401678896,401678896101899803,4,3,Abilene Christian,0,Stephen F. Austin,7,1,10,1,78,2,10,15,FALSE,Pass Reception,"Maverick McIvor pass complete to Blayne Taylor for 15 yds to the ACU 37 for a 1ST down Stephen F. Austin Penalty, Defensive pass interference (Charles Demmings) to the ACU 37 for a 1ST down",1.835064285
+401678896,401678896101899802,4,2,Abilene Christian,0,Stephen F. Austin,7,1,10,1,78,1,10,0,FALSE,Pass Incompletion,pass incomplete to Trey Cleveland,-0.6135902758
+401678896,401678896101895101,2,4,Abilene Christian,0,Stephen F. Austin,0,1,10,48,86,4,6,0,FALSE,Punt,punt for no gain,
+401678896,401678896101878304,2,3,Abilene Christian,0,Stephen F. Austin,0,1,12,16,86,3,6,0,FALSE,Pass Incompletion,pass incomplete to Trey Cleveland,-0.1403247146
+401678896,401678896101878303,2,2,Abilene Christian,0,Stephen F. Austin,0,1,12,16,93,2,13,7,FALSE,Pass Reception,Maverick McIvor pass complete to Blayne Taylor for 7 yds to the ACU 14,0.09344224902
+401678896,401678896101878302,2,1,Abilene Christian,0,Stephen F. Austin,0,1,12,16,90,1,10,-3,FALSE,Rush,Sam Hicks run for a loss of 3 yards to the ACU 7,-0.464787549
+401678896,401678896101849902,1,1,Abilene Christian,0,Stephen F. Austin,0,1,15,0,65,1,10,0,FALSE,Kickoff,Kyler Meschi kickoff for 65 yds for a touchback,
+401678896,401678896104949113,33,12,Abilene Christian,25,Stephen F. Austin,32,4,5,8,28,1,10,0,FALSE,Pass Incompletion,pass incomplete to Jacoby Boykins,-0.5120818738
+401678896,401678896104949112,33,11,Abilene Christian,25,Stephen F. Austin,32,4,5,8,35,4,4,7,FALSE,Pass Reception,Carson Haggard pass complete to J.J. Henry for 7 yds to the SFA 28 for a 1ST down,2.110370194
+401678896,401678896104949111,33,10,Abilene Christian,25,Stephen F. Austin,32,4,5,8,35,3,4,0,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Nehemiah Martinez I, broken up by Jaheim Mullen",-1.033747714
+401678896,401678896104949110,33,9,Abilene Christian,25,Stephen F. Austin,32,4,5,8,35,2,4,0,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Trey Cleveland, broken up by Azariah Levells",-0.8725368451
+401678896,401678896104949109,33,8,Abilene Christian,25,Stephen F. Austin,32,4,5,8,41,1,10,6,FALSE,Pass Reception,Carson Haggard pass complete to Sam Hicks for 6 yds to the SFA 35,0.2724195168
+401678896,401678896104949108,33,7,Abilene Christian,25,Stephen F. Austin,32,4,5,8,55,4,10,14,FALSE,Pass Reception,Carson Haggard pass complete to J.J. Henry for 14 yds to the SFA 41 for a 1ST down,3.657498467
+401678896,401678896104949107,33,6,Abilene Christian,25,Stephen F. Austin,32,4,5,8,55,3,10,0,FALSE,Pass Incompletion,pass incomplete to Blayne Taylor,-0.5497170178
+401678896,401678896104949106,33,5,Abilene Christian,25,Stephen F. Austin,32,4,5,8,55,2,10,0,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Javon Gipson, broken up by Charles Demmings",-0.9098186367
+401678896,401678896104949105,33,4,Abilene Christian,25,Stephen F. Austin,32,4,5,8,55,1,10,0,FALSE,Pass Incompletion,"Carson Haggard pass incomplete to Blayne Taylor, broken up by Bruce Harmon",-1.161869201
+401678896,401678896104949104,33,3,Abilene Christian,25,Stephen F. Austin,32,4,5,8,70,3,10,15,FALSE,Rush,"Carson Haggard run for no gain to the ACU 30 for a 1ST down Stephen F. Austin Penalty, personal foul (Aaron Austin) to the ACU 45 for a 1ST down",2.739433494
+401678896,401678896104949103,33,2,Abilene Christian,25,Stephen F. Austin,32,4,5,8,70,2,10,0,FALSE,Pass Incompletion,pass incomplete to Nehemiah Martinez I,-0.4604691796
+401678896,401678896104949102,33,1,Abilene Christian,25,Stephen F. Austin,32,4,5,8,70,1,10,0,FALSE,Pass Incompletion,pass incomplete to Blayne Taylor,-0.8627910328
+401678896,401678896104976401,33,13,Abilene Christian,25,Stephen F. Austin,32,4,2,35,28,2,10,0,FALSE,Interception,Carson Haggard pass intercepted,-3.723903652
