@@ -45,7 +45,9 @@ print(third_fourth_success_rate_vasko)
 
 # Creates dataset to view QB EPA/Play for passers with one hundred and fifty+ passes
 qb_epa_per_play <- pbp_all %>%
-  filter(!is.na(passer_player_name), !is.na(EPA)) %>%
+  filter(!is.na(passer_player_name), 
+         passer_player_name != "incomplete", 
+         !is.na(EPA)) %>%
   group_by(passer_player_name) %>%
   summarise(
     total_plays = n(),
@@ -54,6 +56,9 @@ qb_epa_per_play <- pbp_all %>%
   ) %>%
   filter(total_plays >= 150) %>%
   arrange(desc(epa_per_play))
+
+# Mean EPA per play across all qualifying QBs (150+ plays, excluding "incomplete")
+mean_epa_all_qbs <- mean(qb_epa_per_play$epa_per_play)
 
 epa_per_play <- mean(vasko_plays$EPA, na.rm = TRUE)
 print(epa_per_play)
