@@ -23,3 +23,18 @@ The scripts should be run in the following order:
 > 💡 Run the scripts in order — some code in earlier scripts is required by later ones.
 
 ---
+
+## 📈 Analysis Focus
+
+- Compares overall completion% to third down completion%
+- Determines success rate for each quarterback overall and on each down
+- Compares EPA per play for each quarterback in the study and in the league 
+- Adds in completions buckets to focus on efficiency
+
+## ▶️ How to Run the Code
+
+1. Clone or download this repository
+2. 
+3. Make sure the `.csv` file is downloaded and name is changed
+4. Open each `.R` file in R or RStudio and run them in order
+5. Install packages are listed at the top of each .R file
