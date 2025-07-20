@@ -34,7 +34,7 @@ The scripts should be run in the following order:
 ## ▶️ How to Run the Code
 
 1. Clone or download this repository
-2. 
+2. Get your own College Football Data Key (https://collegefootballdata.com/key#google_vignette)
 3. Make sure the `.csv` file is downloaded and name is changed
 4. Open each `.R` file in R or RStudio and run them in order
 5. Install packages are listed at the top of each .R file
