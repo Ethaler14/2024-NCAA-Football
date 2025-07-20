@@ -17,8 +17,8 @@ Run the scripts in the following order:
 - `00_README.md` – This file
 - `01._VASKO.R` – Analysis of **Ethan Vasko**
 - `02._MCIVOR.R` – Analysis of **Maverick McIvor**
-- `03._download.csv` – All game data needed for McIvor; includes every game except 1 (used for Abilene Christian)
-`04._Bullock.R` – Analysis of **Evan Bullock**
+- `03._download.csv` – All game data needed for McIvor; adds in one game
+- `04._Bullock.R` – Analysis of **Evan Bullock**
 
 > 💡 Some earlier scripts contain code that is reused later. Please run the scripts in order for full functionality.
 
