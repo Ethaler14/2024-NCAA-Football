@@ -30,7 +30,7 @@ This project includes the following evaluations:
 
 - Comparison of **overall completion %** vs **3rd down completion %**
 - Calculation of **success rate** overall and by down
-- Estimation of **EPA per play** by quarterback and across the conference
+- Use of **EPA per play** as a comparison metric to evaluate QB impact and effectiveness
 - Use of **completion buckets** to assess passing efficiency
 
 ---
