@@ -12,10 +12,12 @@ pbp_all <- cfbfastR::load_cfb_pbp(seasons = 2024)
 vasko_plays <- pbp_all %>%
   filter(passer_player_name == "Ethan Vasko")
 
+# Third Down completion% compared to Overall
 vasko_third_down <- vasko_plays %>%
   filter(down == 3) %>%
   count(play_type, sort = TRUE)
 
+# Success Rate
 vasko_plays_success <- vasko_plays %>%
   mutate(
     success = case_when(
@@ -26,18 +28,22 @@ vasko_plays_success <- vasko_plays %>%
     )
   )
 
+# Average Success Rate
+mean(vasko_plays$success, na.rm = TRUE)
+
+# Success Rate by Down
 vasko_plays_success %>%
   group_by(down) %>%
   summarise(success_rate = mean(success, na.rm = TRUE))
 
-mean(vasko_plays$success, na.rm = TRUE)
-
+# Success Rate for third and 4th
 third_fourth_success_rate_vasko <- vasko_plays_success %>%
   filter(down %in% c(3, 4)) %>%
   summarise(success_rate = mean(success, na.rm = TRUE))
 
 print(third_fourth_success_rate_vasko)
 
+# Creates dataset to view QB EPA/Play for passers with one hundred and fifty+ passes
 qb_epa_per_play <- pbp_all %>%
   filter(!is.na(passer_player_name), !is.na(EPA)) %>%
   group_by(passer_player_name) %>%
@@ -52,6 +58,7 @@ qb_epa_per_play <- pbp_all %>%
 epa_per_play <- mean(vasko_plays$EPA, na.rm = TRUE)
 print(epa_per_play)
 
+# Average Yards per Completion
 vasko_avg_yds_per_completion <- vasko_plays %>%
   filter(completion == 1, !is.na(yards_gained)) %>%
   summarise(
@@ -60,6 +67,7 @@ vasko_avg_yds_per_completion <- vasko_plays %>%
     avg_yards_per_completion = total_yards / completions
   )
 
+# Completion Buckets
 vasko_completion_buckets <- vasko_plays %>%
   filter(completion == 1, !is.na(yards_gained)) %>%
   mutate(
